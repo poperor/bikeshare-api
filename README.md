@@ -30,3 +30,4 @@ npm test
 npm start
 
 The api endpoint will then be available on http://localhost:3000/availability
+
